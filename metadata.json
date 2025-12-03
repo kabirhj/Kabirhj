@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Animate Images with Veo",
+  "description": "Upload a photo, provide a prompt, and generate a dynamic video using Google's Veo video generation model. Choose your preferred aspect ratio and bring your images to life.",
+  "requestFramePermissions": []
+}
